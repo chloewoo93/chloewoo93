@@ -3,7 +3,7 @@
 <div align="center">Hi, I'm Chloe Woo.<br>
   I graduated from <b>Sejong-Univ and Shanghai-Jiaotong Univ</b> and I have a double degree.<br>
   After graduating, I worked at <b>a Chinese Embassy</b> for a year as an administrative staff.<br>
-  Now, I'm studying Programming and I would like to become <b>a backend-developer.</b><div>
+  Now, I'm studying programming and I would like to become <b>a backend-developer.</b><div>
   
 
 <h1></h1>
