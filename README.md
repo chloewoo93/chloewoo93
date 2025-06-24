@@ -1,5 +1,3 @@
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FRcOe6%2FbtrsJL1BO7u%2FiONnYTzqM7XiB95mbQQUVK%2Fimg.png">
-
 <h1></h1>
 
 <h3 align="center">:camel:STACKS:camel:</h3>
@@ -14,20 +12,6 @@
   
 <h1></h1>
   
-<h3 align="center">:whale:LANGUAGES:whale:</h3>
-<div align="cneter">
-<br>
-Korean : Native<br>
-English : Fluent<br>
-Chinese : Fluent
-</div>
-
-<h1></h1><br>
-  
 ![chloewoo93's github stats](https://github-readme-stats.vercel.app/api?username=chloewoo93&show_icons=true)
 [![chloewoo93's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chloewoo93&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/chloewoo93)
-  
-
-  
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchloewoo93&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
